@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on novel strategies to accellerate computational materials screening and materials discovery using machine learning
 
-💬 Please feel free to ask me about applying `Roost` or any of my other [work](https://scholar.google.com/citations?user=0qvx_dYAAAAJ&hl=en). We're always on the look out for potential collaborations!
+💬 Please feel free to ask me about applying `Wren`, `Roost` (See inside `aviary`) or any of my other [work](https://scholar.google.com/citations?user=0qvx_dYAAAAJ&hl=en). Always on the look out for potential collaborations!
 
 <!--
 **CompRhys/CompRhys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
